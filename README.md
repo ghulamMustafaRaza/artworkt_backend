@@ -1,3 +1,10 @@
+# NOTE
+> API endpoint `https://shrouded-harbor-27936.herokuapp.com/app`
+
+> Must user this header for authorization with all request <br/>
+`Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI1ZDQ0NWE3ZTJjMDA0NDcxM2MwNzcwOTUiLCJpYXQiOjE1NjYyMDcwMTJ9.JuXaIx5XGQzbwek2JrCxI0K6aXv7UyNYiAW6teXlnqw`
+
+for example : `https://shrouded-harbor-27936.herokuapp.com/app/store/products`
 # Product
 
 ## Get a list of Sync Products
